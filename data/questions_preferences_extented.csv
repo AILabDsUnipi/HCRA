@@ -1,0 +1,43 @@
+Q.ID,Questions,food/café,transportation,accommodation,activities,shopping,nightlife,budget
+1,Can you suggest a family-friendly activity in Monastiraki?,,,,"arts,historical_sites,indoor_entertainment,family_activities,museum",,,"low,medium,high"
+2,Are there any hostels in Monastiraki?,,,hostels,,,,"low,medium"
+3,Where can I enjoy traditional Greek dishes in this area?,local_cuisine,,,,,,"low,medium"
+4,I want to try some authentic Greek street food.,street_food,,,,,,"low,medium"
+5,Are there any good hotels close to Monastiraki Metro Station?,,,hotels,,,,"medium,high"
+6,What is the most historical place to visit in Monastiraki?,,,,historical_sites,,,"medium,high"
+7,"I’d love to visit a café with a magical, fairytale theme.",café,,,,,,"low,medium"
+8,I’d like to spend some time reading a book while enjoying coffee. Any suggestions?,café,,,reading,,,"low,medium"
+9,Which is the highest-rated vegetarian restaurant in Monastiraki?,vegan,,,,,,"medium,high"
+10,Can you suggest a bar where I can enjoy wine or cocktail for under 15 euros?,,,,,,"live_music,bars,clubs,shows","low,medium"
+11,Are there any museums near Monastiraki with wheelchair-accessible parking?,,"taxi,rental_car",,museum,,,"low,medium"
+12,I want to listen live music while having a drink. Where should I go?,,,,,,"live_music,shows","low,medium,high"
+13,Is there an open-air cinema around Monastiraki?,,,,cinema,,,"low,medium"
+14,Can you suggest a café where I can enjoy a view of the Acropolis?,café,,,,,,"low,medium,high"
+15,Where can I have an affordable breakfast for under 5 euros?,breakfast,,,,,,low
+16,Which night club in Monastiraki has the most reviews?,,,,,,clubs,"low,medium"
+17,Where should I go for a well-known brunch experience in this area?,brunch,,,,,,"medium,high"
+18,I need a dog-friendly hotel to stay.,,,hotels,,,,"low,medium,high"
+19,Where can I watch a football match and have a beer in Monastiraki?,,,,indoor_entertainment,,pubs,"low,medium"
+20,I’m looking for a burger restaurant where I can book a table.,"restaurants,street_food",,,,,,"low,medium"
+21,What’s the nearest station to the Acropolis Museum?,,"bus,metro",,historical_sites,,,low
+22,What’s the shortest path from Monastiraki to Omonia on foot?,,walking,,,,,
+23,Can I walk to Gazi from Monastiraki in under 15 minutes?,,walking,,,,,
+24,Are there any bowling alleys in Monastiraki?,,,,"indoor_entertainment,family_activities",,,"low,medium"
+25,What metro lines are available in Monastiraki?,,metro,,,,,low
+26,I want to get some souvenirs. Where should I look?,,,,,locally_owned_stores,,"low,medium"
+27,Which cafés in Monastiraki accept NFC payments?,café,,,,,,"low,medium"
+28,Are there any Italian restaurants with moderately priced services around Athens city center?,"restaurants,ethnic_cuisine",,,,,,medium
+29,I’m looking for a place to eat something and it may be suitable for smokers.,"restaurants,street_food,local_cuisine,vegan,ethnic_cuisine",,,,,,"low,medium,high"
+30,What is the best way to reach Psiri Square on foot starting from Syntagma?,,walking,,,,,
+31,Which EV station has the most connectors to charge my electric car?,,rental_car,,,,,"low,medium"
+32,Which Mexican restaurant offers a large variety of cocktails?,"restaurants,ethnic_cuisine",,,,,,"low,medium"
+33,Can you suggest a place where I can enjoy a view of historical monuments?,,,,historical_sites,,,"low,medium"
+34,I’d like to have some time to complete a writing while drinking coffee. Any suggestions?,café,,,,,,"low,medium"
+35,Are there any well-rated restaurants with moderately priced services in Athens city center?,"restaurants,local_cuisine",,,,,,medium
+36,What options for EV stations do exist for charging my electric car in Athens center?,,rental_car,,,,,"low,medium"
+37,Which EV station do you suggest for charging my electric car in Athens center while enjoying coffee in a walking distance cafe with a view in Acropolis?,café,rental_car,,,,,"low,medium"
+38,I’m looking for a pizza or Italian restaurant with moderately priced services around Athens city center that it is suitable for smokers.,"restaurants,ethnic_cuisine",,,,,,medium
+39,The most known historical places in Monastiraki are usually crowded. What you would suggest for a more relaxed visit that would upgrade my visit of historical places?,,walking,,historical_sites or museum,,,"low,medium"
+40,"Plan for me a walking tour on three historical places in Athens center, starting from a cafe place and with a break for lunch. The total travel distance should not exceed 2 km and should be no boring. Expences should not exceed 60 Euros in total.",café and restaurant,walking,,historical_sites,,,"low,medium"
+41,"Plan for me a walking tour on two classical museums in Athens center, starting from a cafe place and with a break for lunch. The total travel distance should be weel chair accessible, not exceed 2 km and should be no boring. Expences should not exceed 60 Euros in total.",café and restaurant,walking,,museum,,,"low,medium"
+42,Which restaurant offers a large variety of cocktails and accepts NFC payments?,restaurants ,,,,,,"low,medium"
