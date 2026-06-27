@@ -70,3 +70,9 @@ EVALUATOR_TEMP=0.0          # Evaluator LLM temperature
 MAX_REFLEXION_TRIALS=10     # Maximum iterations per question
 REFLEXION_TEMP=1.0          # Reflexion LLM temperature
 ```
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
